@@ -1,2 +1,2 @@
 # python part 2
-The next level of my Python journey
+The next stage of my Python journey. More advanced topics and programs.
