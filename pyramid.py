@@ -7,7 +7,7 @@ def pyramid(n):
     for i in range(1, n+1, 2):
         print(((n-i)//2)*' ' + '*'*i + ((n-i)//2)*' ')
         '''Or, if you want to turn it into a Christmas tree :)
-        Only works for odd values of n, because the loop skips even values of i
+        Only works for odd values of n, because the loop skips even values of i.
         Still thinking of a way to tweak it, but the point was to make a pyramid,
         not a fir tree.'''
         # if i == n:
