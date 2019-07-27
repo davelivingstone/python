@@ -1,4 +1,4 @@
-''' I wanted to draw a pyramid make up of asterisks.
+''' I wanted to draw a pyramid made up of asterisks.
 You need to center the stars too, so I figured out
 a formula that adds spaces to the left and right,
 depending on the number of stars in the iteration.'''
