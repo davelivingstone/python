@@ -14,6 +14,6 @@ def pyramid(n):
         # 	print((n//2)*' ' + '*' + (n//2)*' ')
 
 
-print(pyramid(15))
-print(pyramid(25))
-print(pyramid(100))
+pyramid(15)
+pyramid(25)
+pyramid(100)
